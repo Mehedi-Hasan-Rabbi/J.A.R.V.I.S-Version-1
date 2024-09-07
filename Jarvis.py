@@ -18,6 +18,7 @@ import time as tt
 import string
 import random
 import psutil
+import pyaudio
 
 engine = pyttsx3.init()
 

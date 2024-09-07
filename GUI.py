@@ -105,11 +105,8 @@ def jarvis():
 
         elif 'whatsapp message' in query:
             user_name = {
-                'sir': '+880 1556-449873',
-                'user': '+880 1796-346926',
-                'myself': '+880 1521-236716',
-                'simanto': '+880 1882-723253'
-                
+                'myself': '+880 1XXX-XXXXXX',
+                'teacher': '+880 1XXX-XXXXXX'
             }
             try:
                 speak('To whom you want to send the whats app message?')
