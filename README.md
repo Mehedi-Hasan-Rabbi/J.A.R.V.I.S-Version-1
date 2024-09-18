@@ -46,7 +46,7 @@ Update Whatsapp numbers from `GUI.py` line 108
 3. Activate the virtual environment:
    - On Windows:  
      ```bash
-     .\venv\Scripts\activate
+     ./venv/Scripts/activate
      ```
    - On Linux/macOS:  
      ```bash
